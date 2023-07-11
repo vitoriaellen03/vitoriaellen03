@@ -1,4 +1,4 @@
-## Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25" height="25">! Eu sou o Vitória Ellen
+## Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25" height="25"> Eu sou o Vitória Ellen
 <div align="center">
   <a href="https://github.com/vitoriaellen03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaellen03&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
