@@ -1,4 +1,5 @@
 ## Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25" height="25"> Eu sou o Vitória Ellen
+<div style="display: inline_block">
 <div align="center">
   <a href="https://github.com/vitoriaellen03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaellen03&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
@@ -11,7 +12,7 @@
   <img align="center" alt="vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+</div>  
   ##
  
 <div>
