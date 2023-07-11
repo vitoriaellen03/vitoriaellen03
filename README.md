@@ -10,7 +10,6 @@
   <img align="center" alt="vi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="vi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/664614366397726743/893839143732391957/logoRuffles.gif">
 </div>
   
   ##
