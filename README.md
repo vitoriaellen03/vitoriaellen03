@@ -24,5 +24,5 @@
 # :point_down:Saiba Mais Sobre os Trabalhos de Vitória:point_down:
 <div class="fundo" style="center">
   Portifólio:
-  <a href="https://vitoriaellen03.github.io/potifolio/">https://vitoriaellen03.github.io/portifolio/</a>
+  <a href="https://vitoriaellen03.github.io/portifolio/">https://vitoriaellen03.github.io/portifolio/</a>
 </div>
