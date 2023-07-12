@@ -1,5 +1,4 @@
 ## Olá!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25" height="25"> Eu sou o Vitória Ellen
-<div>
   <div style="center">
   <a href="https://github.com/vitoriaellen03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriaellen03&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
@@ -19,5 +18,3 @@
     <a href = "mailto:contato.vitoriaellen03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/vitoriaellen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-  
-</div>
