@@ -1,5 +1,5 @@
 ## Olá!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25" height="25"> Eu sou o Vitória Ellen
-<div align="rigth">
+<div>
   
   <div style="display: inline_block">
   <a href="https://github.com/vitoriaellen03">
