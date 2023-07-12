@@ -27,8 +27,3 @@
   Portifólio:
   <a href="https://vitoriaellen03.github.io/portifolio/">https://vitoriaellen03.github.io/portifolio/</a>
 </div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vitória-ellen-f-40796b210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vit%C3%B3ria-ellen-f-40796b210?trk=profile-badge">Vitória Ellen F.</a></div>
-              
