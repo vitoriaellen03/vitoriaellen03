@@ -18,7 +18,8 @@
   <div>
     <a href="https://www.instagram.com/vii16_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:contato.vitoriaellen03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://vitoriaellen03.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Meu site-%1EBAE9?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/vitoriaellen03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://vitoriaellen03.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Meu site-%1EBAE9?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a>
   </div>
 
 # :point_down:Saiba Mais Sobre os Trabalhos de Vitória:point_down:
@@ -26,3 +27,8 @@
   Portifólio:
   <a href="https://vitoriaellen03.github.io/portifolio/">https://vitoriaellen03.github.io/portifolio/</a>
 </div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vitória-ellen-f-40796b210" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vit%C3%B3ria-ellen-f-40796b210?trk=profile-badge">Vitória Ellen F.</a></div>
+              
