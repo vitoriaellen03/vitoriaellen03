@@ -9,7 +9,7 @@
     <img align="center" alt="vi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="vi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="vi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="vi-CSS" height="30" width="40" src="https://banner2.cleanpng.com/20180422/qjq/kisspng-java-platform-standard-edition-mobile-app-develop-java-5adca76dc9d810.9952459915244102218268.jpg">
+    <img align="center" alt="vi-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg">
   </div>
 
 ##
