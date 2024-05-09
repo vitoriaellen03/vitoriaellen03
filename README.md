@@ -19,7 +19,7 @@
     <a href="https://www.instagram.com/vii16_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:contato.vitoriaellen03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/vitoriaellen03" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://vitoriaellen03.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Meu site-%1EBAE9?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a>
+    <a href="https://vitoriaellen03.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Meu site-%1EBAE9?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a>
   </div>
 
 # :point_down:Saiba Mais Sobre os Trabalhos de Vitória:point_down:
@@ -28,5 +28,5 @@ Apresento-lhes o meu portfólio, concebido com o intuito de exibir minhas habili
 
 <div class="fundo" style="center">
   Portifólio:
-  <a href="https://vitoriaellen03.github.io/portifolio/">https://vitoriaellen03.github.io/portifolio/</a>
+  <a href="https://vitoriaellen03.github.io/portfolio/">https://vitoriaellen03.github.io/portfolio/</a>
 </div>
